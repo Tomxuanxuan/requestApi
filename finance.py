@@ -157,7 +157,7 @@ def ucn_code_to_company(ucncode):
 
     # TODO: 通过接口获取相关公司名称
     print('放入接口的请求密钥', request_key)
-    # url = 'http://172.23.31.13:80/gateway/app/refreshTokenByKey.htm'
+    # url = 'http://xx.xx.xx.xx:80/gateway/app/refreshTokenByKey.htm'
     # response = requests.post(url, params)
 
     company_name = '测试科技公司'
